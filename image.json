@@ -1,6 +1,6 @@
 {
   "version_code": 1,
-  "version": 38,
+  "version": 39,
   "title": "The cool kids crew.",
   "timestamp": 1782262228,
   "images": [
@@ -64,18 +64,78 @@
         "https://scontent.fdad1-1.fna.fbcdn.net/v/t39.30808-6/631623439_1325787539575156_3194318238016004323_n.jpg?stp=dst-jpg_tt6&cstp=mx720x607&ctp=s720x607&_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_ohc=baR60HrV2k4Q7kNvwF2ZpQt&_nc_oc=Ado_CzseU18FKMlj4-mtGVBzgp_WrrC_CU7P472LlviDsU_dsgCoV5GCN2boMzgsI950qf00rE_JnKHEBLKnlTR5&_nc_zt=23&_nc_ht=scontent.fdad1-1.fna&_nc_gid=Z9BSyGzG7-W6sugjmQlZoQ&_nc_ss=7b2a8&oh=00_Af91YaHjlrAERTiTF0r-pZKKmDdQ_WDOJ-Z5qGES4A76GA&oe=6A410ABE",
         "https://scontent.fdad1-3.fna.fbcdn.net/v/t39.30808-6/631822889_1325787552908488_1613020596062813932_n.jpg?stp=dst-jpg_tt6&cstp=mx720x607&ctp=s720x607&_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=we2pwHjr5sMQ7kNvwE9dOyt&_nc_oc=AdoyR4ZvzOMd9GHAUFx3p1OokJGxj6DOFXJybroB5ON_OoyNJQAyRR22Dl8pIhKW3U2vHocY2-9BQg5OiJEOgVEV&_nc_zt=23&_nc_ht=scontent.fdad1-3.fna&_nc_gid=Z9BSyGzG7-W6sugjmQlZoQ&_nc_ss=7b2a8&oh=00_Af-_-XSq2qWhkQAKCsd0CGse4SUTtK8fD4iODCLxvUrbTw&oe=6A40F8FA"
       ]
+    },
+    {
+      "title": "You do not want to get on their bad side.",
+      "timestamp": 1782546369,
+      "images": [
+        "https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/632064472_1325042069649703_4594287222231872955_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=WmksSA8tNRYQ7kNvwF1ljNU&_nc_oc=AdoHRd1UBQfnK7jXDQPZQgDv3dr3Vhour93H7MnOxL2cF_88fvfYd040L7RjQOrPPoy7gWkXHGBirBxQ4VaoV-mk&_nc_zt=23&_nc_ht=scontent.fdad1-2.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af91AhjkVPN8Qdq4wkomAILCrBj5KmLl7mDyn0h9BC-c1w&oe=6A453FA5",
+        "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/629621455_1325041996316377_4683783523595539896_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gccryOGnVe8Q7kNvwEBNKC2&_nc_oc=Ado6zsoWcuFdqFizQUHEsyztVY-H-vaA3JEKrU9OcCu-23VR8STcv5m1wpLVjpPohTI1nDOwOnCARZV1HGpMQ3-h&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af84loSy0tBHBJdkVnuM79BcG2boTh4DdgezqykrUXTjuQ&oe=6A453BCD",
+        "https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/630498343_1325042049649705_398392528302821268_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tVpq0FWP79IQ7kNvwGXKj6i&_nc_oc=AdpKcYl7kzY7JvlEHhZLo8o6kCZxqQSTTEWNo3lb-6Eu1coC_4apOHCIN9ulRFR0uD-NU2xk8Bs5XXiJBQ7jNOof&_nc_zt=23&_nc_ht=scontent.fdad2-1.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af95y4C5ZXts83XsmajOGhYp3nnNFCVt4GI53AbRxWAApQ&oe=6A453F0F",
+        "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/629621455_1325042022983041_620843512749604721_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=KAaEoPXV4XwQ7kNvwE2lzZ0&_nc_oc=Adp-3kklHUof8zWcENzaaqPxc1uyqV4_KG32ucKYkbQgzfXaF_4jmeTiYRhupbUoLkcSu45w8_sY95S0beNUZmip&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af_V6mawe404vaC-PCogsFzSErJZv21GDyPN1QxcECQsCQ&oe=6A455F2A"
+      ]
+    },
+    {
+      "title": "You aren’t ready, Nakama!",
+      "timestamp": 1782546369,
+      "images": [
+        "https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/629352526_1324179163069327_1723621167796390137_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=0hpWBM6_c5oQ7kNvwFSPria&_nc_oc=AdqicdNwLXvAh9mdvAaT-mihn-rJK6WJQhcJrDr20imRgzGyXVHkoUz0kWSAoom6LnYghVF3NvsT_vs3lEdimyRr&_nc_zt=23&_nc_ht=scontent.fdad1-2.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af_v3mjfn9YcQ_mBPTDzkfGIWcYsUqgaVUg1qbX8oFNe6Q&oe=6A454E79",
+        "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/633741296_1324179183069325_3583770561817618322_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=Vju8mzHMRFMQ7kNvwEt_F2l&_nc_oc=Adojeasx0qZqMZimp7gyi1xS5pDfhs-HkQJyGQQ10aCSdxn3NEbNjZxxNe49J8-uslYKJLJRmzOSy4YS4UjJzj0Q&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af8nrAt-YiaYSHYP6qfMafx1XvhEOt_Vd8HECu0uHUV8WQ&oe=6A4556E2",
+        "https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/631873804_1324179269735983_3539145283503326800_n.jpg?stp=dst-jpg_tt6&cstp=mx2904x1444&ctp=p590x590&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GMVAhkk8mTQQ7kNvwFwG53d&_nc_oc=Adr-KaoQVRJqJkvatMcby9D2bbvv1b8vO84raLxjh963P4mTfUitkwHJ4ruh3lUeiw093w3QJ_v-b0BlcMk_ycrH&_nc_zt=23&_nc_ht=scontent.fdad1-2.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af8LC8yPUEhV478ZDdKu7WmHjlx5gII2DcY4le7En5IE4A&oe=6A454E5D",
+        "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/631083318_1324179126402664_8313274100417171775_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=_ChBA9kHTo0Q7kNvwFdO39H&_nc_oc=AdrOfalb2Xaj0HLusCknpxtMmFjWCjaCxT45XZEBVXVZwgZrJMwgGXGK6oLGz3bNuK3uwKT9b1HylN9OBHGhWuAw&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af90Y0V0fa2rLNS1IvJ3gxIMKwzz9fhFPViSwWkpmdzAUQ&oe=6A455627"
+      ]
+    },
+    {
+      "title": "Layer up, Straw Hats. Things are getting serious.",
+      "timestamp": 1782546369,
+      "images": [
+        "https://scontent.fdad1-1.fna.fbcdn.net/v/t39.30808-6/627130850_1324143589739551_4699972276082622533_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=p960x960&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ue3QeZbN0c8Q7kNvwF7TiyE&_nc_oc=Adq0DXDYc4MFONudivge-dkzM4CdMebFdCGWTKit9DJJd_UUBi7X9js2Z8bdbsbx8nKAyYK4F7nQiD9KT0ejjdcW&_nc_zt=23&_nc_ht=scontent.fdad1-1.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af-vaSM6SR0AWnkEtHUo4AG0WB1gQb-JIM2ozls-vcXsAQ&oe=6A454285",
+        "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/632617792_1324143616406215_2442993687543502571_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eo9HMP1QkhAQ7kNvwGATJyT&_nc_oc=AdqbyNYJePEMPw6W2oLXOR9_oXX1AuqoW0X4kZ6xXjzbr3k1o8X4Ksa6D0Akc4PBWYr8nCRRaXWWxc4_23VPow_L&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af8hjwaOi7QbwD5VDOT06wTClJo0oCJdmY8QSTF9XH2F7w&oe=6A4537BA",
+        "https://scontent.fdad1-3.fna.fbcdn.net/v/t39.30808-6/628001337_1324143599739550_8646919656884230922_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=p960x960&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XCB9zQPVz8oQ7kNvwGb6xQy&_nc_oc=AdruVMT1-ENW8jlrK1241KpxzeHiQuFDhXrPsUzaOf0_O6FNWajbrB17dsc2cm6ab4XbV2vyi9mYGv-okw6B5-YL&_nc_zt=23&_nc_ht=scontent.fdad1-3.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af-pjrkNYp4561-2Nfs5CrgXdBpknlgJKqVzv2NOS9hU_Q&oe=6A456823",
+        "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/632830409_1324143696406207_2883373901702188426_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=A52efJjZmIgQ7kNvwGfGQRY&_nc_oc=AdrYih7cCtkAM6r7WOP1Tm5vnJX3H33GL1PDGDK9Qyxzdj_vPRt8032OXy1B3q8goJtY0aZxmUNRK_eDoAXzEAbM&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=RBDqpV84sceV1BX54lw7aw&_nc_ss=7b2a8&oh=00_Af8NDgVeL0NT_lVPRBsv3X_cF_QCA8C769rjyO86tFgg4Q&oe=6A453636"
+      ]
+    },
+    {
+      "title": "From the page to the sea.The Straw Hats enter the Grand Line.…",
+      "timestamp": 1782546369,
+      "images": [
+        "https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/625890775_1317060930447817_2384197633069019140_n.jpg?stp=dst-jpg_tt6&cstp=mx1638x2048&ctp=p960x960&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=yA1xFB2_kpkQ7kNvwGUJYzA&_nc_oc=Adp37Wp-GVRDJRiSCnQa8SphNyloB3d1L7iSv4PhtSaY6X7r5hJw1_sg7CAOD_nqvbPKp2LdrXdQZK4MPNes8QJ9&_nc_zt=23&_nc_ht=scontent.fdad1-2.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af_hnAqEZouAttxFoV7nB-c8wciSzqv9oH-1qbx1yC1cWQ&oe=6A4565CB",
+        "https://scontent.fdad1-3.fna.fbcdn.net/v/t39.30808-6/626138372_1317061347114442_5488344621331396657_n.jpg?stp=dst-jpg_tt6&cstp=mx1500x1875&ctp=p960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ze3s8A5HAcIQ7kNvwHmVLkO&_nc_oc=AdohBKyuxsAdQ8T6CddsfDzG_68uJFDFgayFYUratHF9OrJHCeEmuR6Ke7mzzvKau038eeZpqA4PrW5huhxPTbwl&_nc_zt=23&_nc_ht=scontent.fdad1-3.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af8-oj_LZ2cFYMQL6G8865GIE22MUO6HvSuxFnZ28HznCw&oe=6A456DD3",
+        "https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/625049693_1317061013781142_8222930849789697500_n.jpg?stp=dst-jpg_tt6&cstp=mx1500x1875&ctp=p960x960&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=HZQhXmXxJOAQ7kNvwEA560O&_nc_oc=Adr9NPLf5Nwiz650TLqIPSQTfoPZ8sdnmODbqQN4HV2E1iUMkb4T3JgW7zgg_awtKNdZWeepEpNnKgKAd6AE2SdV&_nc_zt=23&_nc_ht=scontent.fdad2-1.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af_ASsf-7fzo64PNkOsiTflaawSw5VqnLviCExhKht_A_A&oe=6A456859",
+        "https://scontent.fdad1-3.fna.fbcdn.net/v/t39.30808-6/624657396_1317061223781121_313930205332797594_n.jpg?stp=dst-jpg_tt6&cstp=mx1500x1875&ctp=p960x960&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=pNbf17lXd2cQ7kNvwFN-cIj&_nc_oc=AdpSUlXlG5_AvSM-JyVZEiwia7x9QJnFbGeEdTN0XjdTykvE5VavcOaIuc1RanKpsNBQQk17Ws3YJTHSxkFtq34E&_nc_zt=23&_nc_ht=scontent.fdad1-3.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af-VxS4OQbfnnV128-iEPpuGx4paVRlKlJPHJBW_zcry5w&oe=6A455314"
+      ]
+    },
+    {
+      "title": "Baroque Works is a threat unlike anything our crew has seen! The game has changed, the stakes are raised, and the Straw Hats are ready to fight like pirates!",
+      "timestamp": 1782546369,
+      "images": [
+        "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/616297270_1299777828842794_2788759283039146607_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=p960x960&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=o9zmJOjBMPUQ7kNvwHxKx5m&_nc_oc=AdrebZXwmEJU5dolm9qT76rzDTZchHSLkktmkYEhPfmS2KNgBRbQIioVrmI7_bpjPAZvOmyxepp_G1RzWoZrZR6f&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af_YxFc2LWC79hHcPSTut514KHbXib-TYyTU02FK8LDhzg&oe=6A45546F",
+        "https://scontent.fdad1-1.fna.fbcdn.net/v/t39.30808-6/615289377_1299777862176124_7768815549577228365_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=p960x960&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=eGQj4Y8sHAQQ7kNvwEh7HjH&_nc_oc=Adowccwd_bttq8r9UykueYMoeoP4vkW4STHuxsVzYtySTE2zkfyw_Flww_0vKDJJEFLiGdLVb_keIcj9aFWAGFzb&_nc_zt=23&_nc_ht=scontent.fdad1-1.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af9gg2-ksZzTsjHU8cfc4wMtD42ZK_RFU52LkdxxqC-qBQ&oe=6A454756",
+        "https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/615449351_1299777855509458_3918887796497102110_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=p960x960&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=a_y4F0IMtWAQ7kNvwEoXHoK&_nc_oc=AdpVp3l5GdrTIANEWrXDcdmgW0CvEg943vAia0ctZUR9qk_8ONaRlll2OrAId5yNqRw3lTHX7jZ0cP-f1sWcikCB&_nc_zt=23&_nc_ht=scontent.fdad2-1.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af8_HMyZ_DSvx7zy8ZEHYXM1FCBN8ELmlBgSC7szyVtQag&oe=6A45554B",
+        "https://scontent.fdad1-2.fna.fbcdn.net/v/t39.30808-6/616350808_1299777845509459_7091722392118528618_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1365&ctp=p960x960&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=gZeo5qvtD8kQ7kNvwECIn_o&_nc_oc=Ado4aBX3KnxbPKY2o5Q1vVEvdZlsWbrHLEYyCNr_ADLWaV31JD9Zx7DTMyGipSaPmAp8mfpx88c8BoDsh_K63dvN&_nc_zt=23&_nc_ht=scontent.fdad1-2.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af_7C0fnOylxmPqR41D7dHKxAzKBxSIFgY7-ieIJJXzIqg&oe=6A456BDB"
+      ]
+    },
+    {
+      "title": "The Grand Line is full of strangers. Some will guide you. Some will test you. All will be watching closely.",
+      "timestamp": 1782546369,
+      "images": [
+        "https://scontent.fdad2-1.fna.fbcdn.net/v/t39.30808-6/616098214_1299646018855975_9206972511806953289_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=d04y0WIwXdIQ7kNvwHg069e&_nc_oc=Ado7GksP8OhxyCnUqZPfU6GVTZKgtLw3bFkH-zByTQTMPkxTwRHWpYU9mrKTCoqnhCwCNsaYW_NZu7dlY_g_AoNw&_nc_zt=23&_nc_ht=scontent.fdad2-1.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af92HWv3-yzyv4UwtEI_gLy-QLY0Pe5DJ4U6YkM0i5Mgrw&oe=6A4555C2",
+        "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/615209746_1299646025522641_6271653345564702543_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=wJw7G5aG4twQ7kNvwG_b9FM&_nc_oc=AdpamdSsY-MibCulINvmbVANDwHAM7NZAO0kS1yfR7fBcroG1aq_2Mg_enbUg_WgdcZu0QosrtGMTdVDlwTIljfK&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af-XNa9roTzloARkYrQEldUgFCnlgfTy9o9ZJSlrQ_zVmQ&oe=6A45454E",
+        "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/615179665_1299646045522639_6745523366150974502_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=LkLM1I3X140Q7kNvwEKU4r9&_nc_oc=AdobLkOBZJNNlEb_dCTXPhWCXDMokVy0sSvkiRTDoc0p_DXP4oGUsdnNsG9Oagf2vFOyChf4YyYNKXYWFKgTbAn3&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af_jIvVQuOmL36-RWH1TuwbTpKjsXpDb5vZ700Lg8gc2uA&oe=6A454197",
+        "https://scontent.fdad1-4.fna.fbcdn.net/v/t39.30808-6/615306097_1299646015522642_5173451764838466430_n.jpg?stp=dst-jpg_tt6&cstp=mx2896x1448&ctp=p590x590&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8KikRiBAMoQQ7kNvwFeHij_&_nc_oc=Ado_f93lxDwiT1qZjrhgfAkNADOVDqz3cvVsfwUQTJMc8LcRrj3D5Q_Xw9e-_IXNQSaAYfpRwElRFEKXC4RKmqNY&_nc_zt=23&_nc_ht=scontent.fdad1-4.fna&_nc_gid=tApq9Ksq99G3Ie0PvXwAyw&_nc_ss=7b2a8&oh=00_Af95vUFNEmukvLkMMNPqBCmOLZFP1jDD1B9lpiLSh2lRHw&oe=6A4544E7"
+      ]
     }
   ],
   "videos": [
+    "o8WIJMF9Tn0",
     "HURRI1dQ5eA",
-    "tq4wuANRfWM",
-    "BeGn1z-ZOrM",
-    "aybUt50iI10",
-    "Di0HwKpU4HQ",
-    "4FNvrFKmp-I",
-    "Be4HZCruoL8",
     "ENoc5_-0rmk",
+    "BeGn1z-ZOrM",
+    "Di0HwKpU4HQ",
     "mVHmHz4Hk_8",
-    "o8WIJMF9Tn0"
+    "tq4wuANRfWM",
+    "4FNvrFKmp-I",
+    "aybUt50iI10",
+    "Be4HZCruoL8"
   ]
 }
